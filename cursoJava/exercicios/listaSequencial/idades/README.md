@@ -1,18 +1,12 @@
-## Getting Started
+Problema "idades" 
+Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os 
+nomes e a idade média entre essas pessoas, com uma casa decimal, conforme exemplo. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exemplo: 
+Dados da primeira pessoa: 
+Nome: Maria Silva
+Idade: 19
+Dados da segunda pessoa: 
+Nome: Joao Melo
+Idade 20
+A idade média de Maria Silva e Joao Melo é de 19.5 anos 
